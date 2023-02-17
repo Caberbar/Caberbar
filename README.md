@@ -68,7 +68,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
 
 ### 😂Random Dev Meme
+<div align="left">
 <img src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" width="512px"/>
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="(https://visitcount.itsvg.in/api?id=Caberbar&icon=5&color=8)](https://visitcount.itsvg.in)" />
+    </div>
   
