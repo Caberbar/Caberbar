@@ -81,7 +81,7 @@ width="52" height="40" alt="paypal logo" />
 <br>
   
 <div style="float: right">
-  <div>
+  <div style="float: right">
     <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Caberbar&label=Profile%20Views&icon=5&pretty=true" />
   </div>
