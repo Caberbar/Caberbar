@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos Bernal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭I´m currently workin on
+- 🤝I´m looking for help with
+- 🌱I´m currently learning
+- 💬Ask me about
+- 🌩️Fun Fact
 
 ###
 
