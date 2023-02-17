@@ -75,9 +75,6 @@
 -->
 <br>
 
-### 😂Random Dev Meme
-<img style="float: left;" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" height="40%" width="406px">
-
 <br>
 
 ## 💰You can help me by Donating
@@ -93,8 +90,17 @@
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
  
-<br>  
+<br>
+<br>
+<br>
   
+ ### 😂Random Dev Meme
+<img style="float: left;" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" height="40%" width="406px"> 
+  
+<br>
+<br>
+<br>
+
 <a href="https://github.com/Caberbar">
   <img src="https://visitcount.itsvg.in/api?id=Caberbar&label=Profile%20Views&icon=5&pretty=true" />
 </a>
