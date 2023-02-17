@@ -57,7 +57,7 @@
 
 ## 🏆GitHub Trophies
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Caberbar&theme=radical&no-frame=true&no-bg=false&margin-w=4)" height="300"/>
+  <img src="https://github-trophies.vercel.app/?username=Caberbar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)" height="300"/>
 </div>
 
 <br>
