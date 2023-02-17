@@ -90,4 +90,4 @@ width="52" height="40" alt="paypal logo" />
   <img src="https://visitcount.itsvg.in/api?id=Caberbar&label=Profile%20Views&icon=5&pretty=true" />
 </a>
   
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=caberbar&width=600)
