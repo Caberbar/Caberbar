@@ -81,7 +81,7 @@
 <br>
 
 ## 💰You can help me by Donating
-<a href="paypal.me/Caberbar" target="_blank">
+<a href="https://www.paypal.com/paypalme/Caberbar" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg"
   width="52" height="40" alt="paypal logo" />
 </a>
