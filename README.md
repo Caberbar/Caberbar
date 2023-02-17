@@ -35,19 +35,21 @@
 
 # 📊GitHub Stats :
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=Caberbar" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&username=Caberbar" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=Caberbar" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&username=Caberbar" height="150" alt="languages graph" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caberbar&theme=tokyonight&hide_border=true" height="200" alt="stats graph"/>
 </div>
 
 ###
-<!-- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caberbar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
--->
+
+
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Caberbar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Caberbar&theme=radical&no-frame=true&no-bg=false&margin-w=4)" height="300"/>
+</div>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
