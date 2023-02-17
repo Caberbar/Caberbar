@@ -78,8 +78,11 @@
 width="52" height="40" alt="paypal logo" />
   
 <br>
-<br>
-<br>
+  
+## 😊Thanks for Visiting my GitHub Profile!
+<img src="https://raw.githubusercontent.com/Caberbar/Caberbar/blob/output/snake.svg" alt="Snake animation"/>
+ 
+<br>  
   
 <a href="https://github.com/Caberbar">
   <img src="https://visitcount.itsvg.in/api?id=Caberbar&label=Profile%20Views&icon=5&pretty=true" />
