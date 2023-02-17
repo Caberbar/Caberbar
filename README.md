@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Carlos%20Bernal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20!&descAlignY=51&descAlign=62)
 
-
 <br>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
