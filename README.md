@@ -3,29 +3,27 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
 
-
 - 🔭I´m currently workin on
 - 🤝I´m looking for help with
 - 🌱I´m currently learning
 - 💬Ask me about
 - 🌩️Fun Fact
 
-
 <br>
+
 ## 🌐Socials
 <div>
-  </a>
   <a href="https://t.me/Caberbar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52"             height="40" alt="telegram logo"/>
   </a>
   <a href="https://twitter.com/CarlosBB2002" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52"             height="40" alt="twitter logo" />
   </a>
   <a href="carlos.bernal.barrionuevo@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52"               height="40" alt="gmail logo"/>
   </a>
   <a href="https://www.linkedin.com/in/carlos-bernal-barrionuevo-036326234/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"             height="40" alt="linkedin logo"/>
   </a>
 </div>
 
