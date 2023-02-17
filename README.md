@@ -4,7 +4,7 @@
 
 ###
 
-
+## 🌐Socials
   </a>
   <a href="https://t.me/Caberbar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
@@ -20,8 +20,7 @@
   </a>
 </div>
 
-
-## 🌐Socials
+## 💻Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -35,8 +34,12 @@
 </div>
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Caberbar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Caberbar&theme=tokyonight&hide_border=true)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=Caberbar" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&username=Caberbar" height="150" alt="languages graph"  />
+</div>
+
+###
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caberbar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
