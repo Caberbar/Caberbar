@@ -38,14 +38,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-<div align="center">
-  <img height="200" src="https://tenor.com/es/view/dog-pup-puppy-cute-shocked-gif-16932034"  />
-</div>
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
-![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
-<img src="https://media.giphy.com/media/U7c2TesYruxCiw11qK/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Caberbar&icon=5&color=8)](https://visitcount.itsvg.in)
