@@ -66,27 +66,18 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 <br>
-   
-<div>
-    <h style="float: left">### 😂Random Dev Meme</h>
-    <h style="float: right">## 💰You can help me by Donating</h>
-    <br>
-    <div>
-        <img style="float: left;" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" height="40%" width="406px">
-    </div>
-    
-    <div style="float: right">
-        <div>
-        <a href="paypal.me/Caberbar" target="_blank">
-            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg"
-                width="52" height="40" alt="paypal logo" />
-            <div>
-                <div>
-                    <a href="https://visitcount.itsvg.in">
-                        <img src="https://visitcount.itsvg.in/api?id=Caberbar&label=Profile%20Views&icon=5&pretty=true" />
-                    </a>
-                </div>
-            </div>
-    
-    </div>
-</div>
+
+### 😂Random Dev Meme
+<img style="float: left;" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" height="40%" width="406px">
+
+<br>
+
+## 💰You can help me by Donating
+<a href="paypal.me/Caberbar" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg"
+width="52" height="40" alt="paypal logo" />
+  
+<br>
+<br>
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=Caberbar&label=Profile%20Views&icon=5&pretty=true" />
