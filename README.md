@@ -68,12 +68,12 @@
 <br>
 
 ### 😂Random Dev Meme
-<div align="left">
+<div align="float: left">
   <img align="left" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" width="406px"/>
 </div>
 
 ## 💰You can help me by Donating
-<div>
+<div align="float: right">
   <a href="paypal.me/Caberbar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
 <div>  
