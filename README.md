@@ -46,24 +46,24 @@
 
 # 📊GitHub Stats :
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=Caberbar" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true&username=Caberbar" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&username=Caberbar" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=rose_pine&hide_border=true&username=Caberbar" height="150" alt="languages graph" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caberbar&theme=react&hide_border=true" height="200" alt="stats graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caberbar&theme=rose_pine&hide_border=true" height="200" alt="stats graph"/>
 </div>
 
 <br>
 
 ## 🏆GitHub Trophies
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Caberbar&theme=react&no-frame=true&no-bg=false&margin-w=4)" height="300"/>
+  <img src="https://github-trophies.vercel.app/?username=Caberbar&theme=rose_pine&no-frame=true&no-bg=false&margin-w=4)" height="300"/>
 </div>
 
 <br>
 
 ### ✍️Latest updates
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine)
 
 <br>
 
