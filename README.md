@@ -70,6 +70,9 @@
 ### 😂Random Dev Meme
 <div align="left">
   <img align="left" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" width="512px"/>
-  <img align="right" src="(https://visitcount.itsvg.in/api?id=Caberbar&icon=5&color=8)](https://visitcount.itsvg.in)"/>
 </div>
-  
+<div align="right">  
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Caberbar&label=Profile%20Views&icon=5&pretty=true" />
+</a>
+  </div>
