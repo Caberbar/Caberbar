@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Carlos%20Bernal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20!&descAlignY=51&descAlign=62)
 
 <br>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate about computing</h3>
 <br>
 
-- 🔭I´m currently workin on
-- 🤝I´m looking for help with
-- 🌱I´m currently learning
-- 💬Ask me about
-- 🌩️Fun Fact
+- 🔭I am currently a student at the I.E.S Zaidín Vergeles institute
+- 🌱First year of web application development
+- 🏠I live in Granada, Spain
+- 👓I have a mid-degree degree in Network Microcomputer Systems
 
 <br>
 
@@ -89,10 +88,8 @@
 <img style="float: left;" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" height="40%" width="406px"> 
   
 <br>
-<br>
-<br>
 
-## 😊Thanks for Visiting my GitHub Profile!
+## 😊Thanks for Visiting my GitHub Profile! 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
