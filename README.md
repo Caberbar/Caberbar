@@ -45,7 +45,7 @@
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 ![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 ![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
-
+<img src="https://media.giphy.com/media/U7c2TesYruxCiw11qK/giphy.gif" width="300">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Caberbar&icon=5&color=8)](https://visitcount.itsvg.in)
