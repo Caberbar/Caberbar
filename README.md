@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos Bernal</h1>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <br>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
@@ -61,13 +61,14 @@
 </div>
 
 <br>
-
+<!--
 ### ✍️Latest updates
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
+-->
+<!--
 ### Latest Tweet 🐦  
 [![](https://gtce.itsvg.in/api?username=CarlosBB2002&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+-->
 <br>
 
 ### 😂Random Dev Meme
