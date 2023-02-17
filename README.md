@@ -82,23 +82,21 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg"
   width="52" height="40" alt="paypal logo" />
 </a>
+
+<br>
+
+### 😂Random Dev Meme
+<img style="float: left;" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" height="40%" width="406px"> 
   
 <br>
-  
+<br>
+<br>
+
 ## 😊Thanks for Visiting my GitHub Profile!
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
  
-<br>
-<br>
-<br>
-  
- ### 😂Random Dev Meme
-<img style="float: left;" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" height="40%" width="406px"> 
-  
-<br>
-<br>
 <br>
 
 <a href="https://github.com/Caberbar">
