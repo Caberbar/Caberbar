@@ -35,5 +35,5 @@ Latest posts:
 
 
 
-![](https://media.giphy.com/media/OPYnG3Xf8zLag/giphy.gif)
+![](https://giphy.com/embed/vVegyymxA90fkY8jkE)
 <iframe src="https://giphy.com/embed/vVegyymxA90fkY8jkE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-nft-9cat-vVegyymxA90fkY8jkE">via GIPHY</a></p>
