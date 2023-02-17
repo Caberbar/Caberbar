@@ -69,7 +69,7 @@
 
 ### 😂Random Dev Meme
 <div align="left">
-<img src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" width="512px"/>
-<img src="(https://visitcount.itsvg.in/api?id=Caberbar&icon=5&color=8)](https://visitcount.itsvg.in)" />
-    </div>
+  <img align="left" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" width="512px"/>
+  <img align="right" src="(https://visitcount.itsvg.in/api?id=Caberbar&icon=5&color=8)](https://visitcount.itsvg.in)"/>
+</div>
   
