@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Bernal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caberbar&label=Profile%20views&color=0e75b6&style=flat" alt="caberbar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caberbar" alt="caberbar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/carlosbb2002" target="blank"><img src="https://img.shields.io/twitter/follow/carlosbb2002?logo=twitter&style=for-the-badge" alt="carlosbb2002" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
