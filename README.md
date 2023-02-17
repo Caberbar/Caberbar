@@ -20,9 +20,11 @@
   <a href="https://twitter.com/CarlosBB2002" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52"             height="40" alt="twitter logo" />
   </a>
+  <!--
   <a href=mailto: carlos.bernal.barrionuevo@gmail.com target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52"               height="40" alt="gmail logo"/>
   </a>
+-->
   <a href="https://www.linkedin.com/in/carlos-bernal-barrionuevo-036326234/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"             height="40" alt="linkedin logo"/>
   </a>
@@ -80,8 +82,9 @@
 
 ## 💰You can help me by Donating
 <a href="paypal.me/Caberbar" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg"
-width="52" height="40" alt="paypal logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg"
+  width="52" height="40" alt="paypal logo" />
+</a>
   
 <br>
   
