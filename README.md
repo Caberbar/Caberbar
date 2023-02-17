@@ -56,21 +56,19 @@
   <img src="https://github-trophies.vercel.app/?username=Caberbar&theme=radical&no-frame=true&no-bg=false&margin-w=4)" height="300"/>
 </div>
 
-### ✍️Random Dev Quote
+### ✍️Latest updates
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Caberbar&icon=5&color=8)](https://visitcount.itsvg.in)
-
-  ## 💰You can help me by Donating
-<div align="left">
-  <a href="paypal.me/Caberbar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
 
 ### 😂Random Dev Meme
 <div align="left">
-  <img align="left" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" width="512px"/>
+  <img align="left" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" width="406px"/>
 </div>
+
+## 💰You can help me by Donating
+<div align="left">
+  <a href="paypal.me/Caberbar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
 <div align="right">  
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Caberbar&label=Profile%20Views&icon=5&pretty=true" />
