@@ -40,6 +40,9 @@
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 <iframe src="https://giphy.com/embed/UDFMOnaOrLx28" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-shocked-UDFMOnaOrLx28">via GIPHY</a></p>
+<div align="center">
+  <img height="200" src="https://tenor.com/es/view/dog-pup-puppy-cute-shocked-gif-16932034"  />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Caberbar&icon=5&color=8)](https://visitcount.itsvg.in)
