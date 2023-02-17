@@ -65,6 +65,9 @@
 ### ✍️Latest updates
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
+### Latest Tweet 🐦  
+[![](https://gtce.itsvg.in/api?username=CarlosBB2002&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 <br>
 
 ### 😂Random Dev Meme
@@ -89,5 +92,3 @@ width="52" height="40" alt="paypal logo" />
 <a href="https://github.com/Caberbar">
   <img src="https://visitcount.itsvg.in/api?id=Caberbar&label=Profile%20Views&icon=5&pretty=true" />
 </a>
-  
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=caberbar&width=600)
