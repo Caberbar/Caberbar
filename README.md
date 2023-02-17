@@ -84,7 +84,7 @@
 
 <br>
 
-### 😂Random Dev Meme
+### 😂Random Meme
 <img style="float: left;" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" height="40%" width="406px"> 
   
 <br>
