@@ -57,8 +57,16 @@
 </div> 
     
 <br>
+
+ ## 🛢️Cloud
+<div align="left">
+  <img align="left" alt="Azure" width="40px" src="https://img.icons8.com/color/512/azure-1.png"/>
+  <img align="left" alt="GoogleCloud" width="40px" src="https://img.icons8.com/color/512/google-cloud.png"/>
+</div> 
+    
+<br>
    
-   ## ⏱️Testing
+   ## ⏱️Test
 <div align="left">
   <img align="left" alt="Selenium" width="40px" src="https://img.icons8.com/color/512/selenium-test-automation.png"/>
 </div> 
