@@ -53,7 +53,6 @@
    ## 🛢️Database
 <div align="left">
   <img align="left" alt="PostGreSQL" width="40px" src="https://img.icons8.com/?size=512&id=38561&format=png"/>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"   width="40" height="40"/>
   <img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/512/mongodb.png"/>
 </div> 
     
@@ -61,19 +60,19 @@
    
    ## ⏱️Testing
 <div align="left">
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"    alt="selenium" width="40" height="40"/>
+  <img align="left" alt="Selenium" width="40px" src="https://img.icons8.com/color/512/selenium-test-automation.png"/>
 </div> 
   
 <br>
 
   ## 🗃️Others
 <div align="left">
-  <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
-  <img align="left" alt="Intellij IDEA" width="40px" src="https://img.icons8.com/color/512/intellij-idea.png" />
-  <img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/512/git.png" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" width="52" alt="gimp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+   <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png"/>
+  <img align="left" alt="Intellij" width="40px" src="https://img.icons8.com/color/512/intellij-idea.png"/>
+  <img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/512/git.png"/>
+  <img align="left" alt="Gimp" width="40px" src="https://img.icons8.com/color/512/gimp.png"/>
+  <img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/color/512/github.png"/>
+  <img align="left" alt="Linux" width="40px" src="https://img.icons8.com/color/512/linux.png"/>
 </div> 
 
 <br>
