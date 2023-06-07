@@ -58,9 +58,9 @@
     
 <br>
 
- ## 🛢️Cloud
+ ## ☁️Cloud
 <div align="left">
-  <img align="left" alt="Azure" width="40px" src="https://img.icons8.com/color/512/azure-1.png"/>
+  <img align="left" alt="Azure" width="40px" src="https://img.icons8.com/?size=512&id=VLKafOkk3sBX&format=png"/>
   <img align="left" alt="GoogleCloud" width="40px" src="https://img.icons8.com/color/512/google-cloud.png"/>
 </div> 
     
