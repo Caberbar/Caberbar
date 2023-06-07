@@ -41,7 +41,7 @@
  
 <br>
     
-## 💻Frontend Development
+## 🧑🏽‍💻Frontend Development
 <div align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"      height="40"/>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"  height="40"/>
@@ -50,7 +50,7 @@
    
 <br>
    
-   ## 💻Database
+   ## 🛢️Database
 <div align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"   width="40" height="40"/>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"   height="40"/>
@@ -58,21 +58,21 @@
     
 <br>
    
-   ## 💻Testing
+   ## ⏱️Testing
 <div align="left">
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"    alt="selenium" width="40" height="40"/>
 </div> 
   
 <br>
    
-   ## 💻Software
+   ## 📱Software
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" width="52" alt="gimp logo"  />
 </div> 
   
 <br>
 
-  ## 💻Others
+  ## 🗃️Others
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
