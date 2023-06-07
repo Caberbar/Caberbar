@@ -57,36 +57,10 @@
 </div>
 
 <br>
-
-## 🏆GitHub Trophies
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Caberbar&theme=dracula&no-frame=true&no-bg=false&margin-w=4)" height="300"/>
-</div>
-
-<br>
-<!--
-### ✍️Latest updates
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
--->
-<!--
-### Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=2002&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
--->
 <br>
 
 <br>
 
-## 💰You can help me by Donating
-<a href="https://www.paypal.com/paypalme/Caberbar" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg"
-  width="52" height="40" alt="paypal logo" />
-</a>
-
-<br>
-<!--
-### 😂Random Meme
-<img style="float: left;" src="https://media.giphy.com/media/4tRr2ULBwiIA8/giphy.gif" height="40%" width="406px"> 
---> 
 <br>
 
 
