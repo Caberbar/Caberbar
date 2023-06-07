@@ -67,6 +67,9 @@
 
   ## 🗃️Others
 <div align="left">
+  <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
+  <img align="left" alt="Intellij IDEA" width="40px" src="https://img.icons8.com/color/512/intellij-idea.png" />
+  <img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/512/git.png" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" width="52" alt="gimp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
