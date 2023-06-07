@@ -52,8 +52,9 @@
    
    ## 🛢️Database
 <div align="left">
+  <img align="left" alt="PostGreSQL" width="40px" src="https://img.icons8.com/?size=512&id=38561&format=png"/>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"   width="40" height="40"/>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"   height="40"/>
+  <img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/512/mongodb.png"/>
 </div> 
     
 <br>
