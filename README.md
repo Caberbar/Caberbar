@@ -36,7 +36,7 @@
   <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/512/python.png"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/512/javascript.png"/>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img align="left" alt="C" width="40px" src="https://img.icons8.com/color/512/c-programming.png"/>
 </div>    
  
 <br>
