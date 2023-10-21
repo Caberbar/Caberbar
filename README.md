@@ -36,7 +36,6 @@
   <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/512/python.png"/>
   <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png"/>
   <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/512/javascript.png"/>
-  <img align="left" alt="C" width="40px" src="https://img.icons8.com/color/512/c-programming.png"/>
 </div>    
  
 <br>
@@ -45,7 +44,6 @@
 <div align="left">
   <img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/512/html-5.png"/>
   <img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/512/css3.png"/>
-  <img align="left" alt="Bootstrap" width="40px" src="https://img.icons8.com/color/512/bootstrap.png"/>
 </div> 
    
 <br>
