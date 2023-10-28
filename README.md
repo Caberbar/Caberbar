@@ -71,8 +71,9 @@
 
 
 ![](https://streak-stats.demolab.com?user=Caberbar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=EBEBEB00&ring=0B86EB&fire=0B86EB&currStreakLabel=EBEBEB)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caberbar&theme=dark&hide_border=true&bg_color=EBEBEB00&layout=compact&text_color=ffffff)
-![](https://github-readme-stats.vercel.app/api?username=Caberbar&theme=dark&show_icons=false&hide_border=true&bg_color=EBEBEB00&text_color=ffffff&hide_title=true&count_private=true)
+<div style="display:flex">![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caberbar&theme=dark&hide_border=true&bg_color=EBEBEB00&layout=compact&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=Caberbar&theme=dark&show_icons=false&hide_border=true&bg_color=EBEBEB00&text_color=ffffff&hide_title=true&count_private=true)</div>
+
 
 <br><br>
 
