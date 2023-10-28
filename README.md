@@ -70,7 +70,7 @@
 <br><br><br>
 
 
-![](https://streak-stats.demolab.com?user=Caberbar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=EBEBEB00)<br/>
+![](https://streak-stats.demolab.com?user=Caberbar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=EBEBEB00&ring=0B86EB&fire=0B86EB&currStreakLabel=EBEBEB)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caberbar&theme=dark&hide_background=EBEBEB00_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 <br><br>
