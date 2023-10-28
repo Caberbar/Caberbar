@@ -14,16 +14,11 @@
 ## Socials
 <div>
   <a href="https://t.me/Caberbar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52"             height="40" alt="telegram logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"/>
   </a>
   <a href="https://twitter.com/CarlosBB2002" target="_blank">
     <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="40" alt="twitter logo"/>
   </a>
-  <!--
-  <a href=mailto: carlos.bernal.barrionuevo@gmail.com target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52"               height="40" alt="gmail logo"/>
-  </a>
--->
   <a href="https://www.linkedin.com/in/carlos-bernal-barrionuevo-036326234/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
@@ -48,10 +43,9 @@
 
     
 <br>
-   
    ## Test
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"/>
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
 </div> 
   
 <br>
