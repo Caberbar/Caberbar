@@ -70,11 +70,6 @@
 <br><br><br>
 
 <div align="center">
-    <img  alt="Stats GitHub" src="https://awesome-github-stats.azurewebsites.net/user-stats/Caberbar?cardType=github&theme=dracula&preferLogin=false&Border=282A36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=true&username=Caberbar" height="150"/>
-  </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&username=Caberbar" height="150" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caberbar&theme=dracula&hide_border=true" height="200" alt="stats graph"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caberbar&theme=dark" alt="caberbar" />
 </div>
 
