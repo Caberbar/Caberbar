@@ -70,7 +70,7 @@
 
 <br>
 
-# 📊GitHub Stats :
+
 <div align="center">
     <img  alt="Stats GitHub" src="https://awesome-github-stats.azurewebsites.net/user-stats/Caberbar?cardType=github&theme=dracula&preferLogin=false&Border=282A36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=true&username=Caberbar" height="150"/>
   </a>
@@ -80,12 +80,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caberbar&theme=dracula&hide_border=true" height="200" alt="stats graph"/>
 </div>
 
-<br>
-
-## 😊Thanks for Visiting my GitHub Profile! 
- 
-<br>
-
-<a href="https://github.com/Caberbar">
-  <img src="https://visitcount.itsvg.in/api?id=Caberbar&label=Profile%20Views&icon=5&pretty=true" />
-</a>
