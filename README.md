@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div> 
 
-<br>
+<br><br><br>
 
 <div align="center">
 <a href="https://github.com/Caberbar" target="_blank">
@@ -68,7 +68,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div> 
-<br>
+
+<br><br><br>
 
 <div align="center">
     <img  alt="Stats GitHub" src="https://awesome-github-stats.azurewebsites.net/user-stats/Caberbar?cardType=github&theme=dracula&preferLogin=false&Border=282A36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=true&username=Caberbar" height="150"/>
