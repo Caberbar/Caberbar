@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52"             height="40" alt="telegram logo"/>
   </a>
   <a href="https://twitter.com/CarlosBB2002" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52"             height="40" alt="twitter logo" />
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="40" alt="twitter logo"/>
   </a>
   <!--
   <a href=mailto: carlos.bernal.barrionuevo@gmail.com target="_blank">
@@ -25,48 +25,33 @@
   </a>
 -->
   <a href="https://www.linkedin.com/in/carlos-bernal-barrionuevo-036326234/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"             height="40" alt="linkedin logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 <br>
 
-## Skills
+## Languages
 <div align="left">
-  <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/512/python.png"/>
-  <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png"/>
-  <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/512/javascript.png"/>
-</div>    
- 
-<br>
-    
-## Frontend Development
-<div align="left">
-  <img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/512/html-5.png"/>
-  <img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/512/css3.png"/>
-</div> 
-   
-<br>
-   
-   ## Database
-<div align="left">
-  <img align="left" alt="PostGreSQL" width="40px" src="https://img.icons8.com/?size=512&id=38561&format=png"/>
-  <img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/512/mongodb.png"/>
-</div> 
-    
-<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>  
 
- ## Cloud
-<div align="left">
-  <img align="left" alt="Azure" width="40px" src="https://img.icons8.com/?size=512&id=VLKafOkk3sBX&format=png"/>
-  <img align="left" alt="GoogleCloud" width="40px" src="https://img.icons8.com/color/512/google-cloud.png"/>
-</div> 
     
 <br>
    
    ## Test
 <div align="left">
-  <img align="left" alt="Selenium" width="40px" src="https://img.icons8.com/color/512/selenium-test-automation.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"/>
 </div> 
   
 <br>
