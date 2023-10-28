@@ -11,7 +11,7 @@
 
 <br>
 
-## 🌐Socials
+## Socials
 <div>
   <a href="https://t.me/Caberbar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52"             height="40" alt="telegram logo"/>
@@ -31,7 +31,7 @@
 
 <br>
 
-## 💻Skills
+## Skills
 <div align="left">
   <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/512/python.png"/>
   <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png"/>
@@ -40,7 +40,7 @@
  
 <br>
     
-## 🧑🏽‍💻Frontend Development
+## Frontend Development
 <div align="left">
   <img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/512/html-5.png"/>
   <img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/512/css3.png"/>
@@ -48,7 +48,7 @@
    
 <br>
    
-   ## 🛢️Database
+   ## Database
 <div align="left">
   <img align="left" alt="PostGreSQL" width="40px" src="https://img.icons8.com/?size=512&id=38561&format=png"/>
   <img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/512/mongodb.png"/>
@@ -56,7 +56,7 @@
     
 <br>
 
- ## ☁️Cloud
+ ## Cloud
 <div align="left">
   <img align="left" alt="Azure" width="40px" src="https://img.icons8.com/?size=512&id=VLKafOkk3sBX&format=png"/>
   <img align="left" alt="GoogleCloud" width="40px" src="https://img.icons8.com/color/512/google-cloud.png"/>
@@ -64,14 +64,14 @@
     
 <br>
    
-   ## ⏱️Test
+   ## Test
 <div align="left">
   <img align="left" alt="Selenium" width="40px" src="https://img.icons8.com/color/512/selenium-test-automation.png"/>
 </div> 
   
 <br>
 
-  ## 🗃️Others
+  ## Others
 <div align="left">
    <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png"/>
   <img align="left" alt="Intellij" width="40px" src="https://img.icons8.com/color/512/intellij-idea.png"/>
