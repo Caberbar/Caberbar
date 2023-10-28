@@ -72,6 +72,6 @@
 
 ![](https://streak-stats.demolab.com?user=Caberbar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=EBEBEB00&ring=0B86EB&fire=0B86EB&currStreakLabel=EBEBEB)
 <br><br><br><br><br>
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra)(https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caberbar&theme=dark&hide_border=true&bg_color=EBEBEB00&layout=compact&text_color=ffffff&card_width=500)
 
