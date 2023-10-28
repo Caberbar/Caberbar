@@ -55,20 +55,6 @@
 
 <br><br><br>
 
-<div align="center">
-  <a href="https://github.com/Caberbar" style="text-decoration:none">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/CarlosBB2002" style="text-decoration:none">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/carlos-bernal-barrionuevo-036326234" style="text-decoration:none">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
-</div> 
-
-<br><br><br>
-
 
 ![](https://streak-stats.demolab.com?user=Caberbar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=EBEBEB00&ring=0B86EB&fire=0B86EB&currStreakLabel=EBEBEB)
 <br><br><br><br><br>
