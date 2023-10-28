@@ -73,3 +73,6 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caberbar&theme=dark" alt="caberbar" />
 </div>
 
+<br><br>
+
+[![](https://visitcount.itsvg.in/api?id=Caberbar&icon=6&color=12)](https://visitcount.itsvg.in)
