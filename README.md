@@ -11,19 +11,6 @@
 
 <br>
 
-<div align="center">
-<a href="https://github.com/Caberbar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/CarlosBB2002" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/carlos-bernal-barrionuevo-036326234" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div> 
-<br>
-
 ## Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -70,6 +57,18 @@
 
 <br>
 
+<div align="center">
+<a href="https://github.com/Caberbar" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/CarlosBB2002" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/carlos-bernal-barrionuevo-036326234" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div> 
+<br>
 
 <div align="center">
     <img  alt="Stats GitHub" src="https://awesome-github-stats.azurewebsites.net/user-stats/Caberbar?cardType=github&theme=dracula&preferLogin=false&Border=282A36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=true&username=Caberbar" height="150"/>
