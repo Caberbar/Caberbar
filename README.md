@@ -60,10 +60,17 @@
 <div align="left">
    <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png"/>
   <img align="left" alt="Intellij" width="40px" src="https://img.icons8.com/color/512/intellij-idea.png"/>
-  <img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/512/git.png"/>
-  <img align="left" alt="Gimp" width="40px" src="https://img.icons8.com/color/512/gimp.png"/>
-  <img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/color/512/github.png"/>
-  <img align="left" alt="Linux" width="40px" src="https://img.icons8.com/color/512/linux.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div> 
 
 <br>
