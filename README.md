@@ -10,44 +10,45 @@
 <br>
 
 ## Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" align="left" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" align="left" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" align="left" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" align="left" alt="php logo"  />
 
-<br>
+<br><br>
 
 ## Databases:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /> 
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" align="left" alt="postgresql logo"  /> 
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" align="left" alt="mysql logo"  />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" align="left" width="40" height="40"/> 
 </div> 
+
+<br><br>
 
 ## Frameworks:
 
 <div align="left">
-  <img align="left" alt="Laravel" width="40px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
+  <img align="left" alt="Laravel" width="40px" align="left" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 </div> 
     
-<br>
+<br><br>
 
    ## Test
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img src="https://skillicons.dev/icons?i=selenium" width="40" align="left" alt="selenium logo"  />
 </div> 
   
-<br>
+<br><br>
 
  ## Cms
 <div align="left">
   <img align="left" alt="Wordpress" width="40px" src="https://img.icons8.com/color/512/wordpress.png" />
 </div> 
-  
+
+  <br><br>
 
   ## Others
 <div align="left">
