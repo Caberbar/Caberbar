@@ -3,9 +3,10 @@
 <br>
 
 - 🔭I am currently a student at the I.E.S Zaidín Vergeles institute
-- 🌱First year of web application development
+- 🌱Second year of web application development
 - 🏠I live in Granada, Spain
 - 👓I have a mid-degree degree in Network Microcomputer Systems
+- 🎈I love being a Frontend Developer, and I also have a fondness for Java, JavaScript, PHP, and Laravel.
 
 <br>
 
