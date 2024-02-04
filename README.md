@@ -20,48 +20,38 @@
 
 ## Databases:
 
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" align="left" alt="postgresql logo"  /> 
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" align="left" alt="mysql logo"  />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" align="left" width="40" height="40"/> 
-</div> 
 
 <br><br>
 
 ## Frameworks:
 
-<div align="left">
   <img align="left" alt="Laravel" width="40px" align="left" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
-</div> 
     
 <br><br>
 
    ## Test
-<div align="left">
   <img src="https://skillicons.dev/icons?i=selenium" width="40" align="left" alt="selenium logo"  />
-</div> 
   
 <br><br>
 
  ## Cms
-<div align="left">
   <img align="left" alt="Wordpress" width="40px" src="https://img.icons8.com/color/512/wordpress.png" />
-</div> 
 
   <br><br>
 
   ## Others
-<div align="left">
   <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png"/>
   <img align="left" alt="Intellij" width="40px" src="https://img.icons8.com/color/512/intellij-idea.png"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="github logo"  />
+  <img align="left" src="https://cdn.simpleicons.org/git/F05032" width="40" alt="git logo"  />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" alt="gimp logo"  />
+  <img align="left" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" width="40" />
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40"/>
   <img align="left" alt="CloudFlare" width="40px" src="https://www.storagealchemist.com/wp-content/uploads/2021/08/Syno-ApacheHTTP-logo-DSM6.png" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div> 
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="linux logo"  />
 
 <br><br><br><br><br>
 
